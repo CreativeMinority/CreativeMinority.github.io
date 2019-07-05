@@ -6,15 +6,38 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://creativeminority.github.io/"/>
-  <updated>2019-07-05T15:38:36.730Z</updated>
+  <updated>2019-07-05T16:16:04.567Z</updated>
   <id>https://creativeminority.github.io/</id>
   
   <author>
-    <name>Blackpig</name>
+    <name>Creative Minority</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Start Post Again</title>
+    <link href="https://creativeminority.github.io/2019/07/06/creative_minority/startPost/"/>
+    <id>https://creativeminority.github.io/2019/07/06/creative_minority/startPost/</id>
+    <published>2019-07-05T16:07:38.000Z</published>
+    <updated>2019-07-05T16:16:04.567Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Start-Again"><a href="#Start-Again" class="headerlink" title="Start Again"></a>Start Again</h1>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Start-Again&quot;&gt;&lt;a href=&quot;#Start-Again&quot; class=&quot;headerlink&quot; title=&quot;Start Again&quot;&gt;&lt;/a&gt;Start Again&lt;/h1&gt;
+      
+    
+    </summary>
+    
+      <category term="CreativeMinority" scheme="https://creativeminority.github.io/categories/CreativeMinority/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
